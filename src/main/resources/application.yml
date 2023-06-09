@@ -3,7 +3,7 @@ spring:
     name: search-project
   # 默认 dev 环境
   profiles:
-    active: prod
+    active: dev
   # 支持 swagger3
   mvc:
     pathmatch:
@@ -16,11 +16,11 @@ spring:
     timeout: 2592000
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://47.100.82.148:3306/my_db
+    url: jdbc:mysql://localhost/my_db
     username: root
-    password: root
+    password: hsp
   elasticsearch:
-    uris: http://47.100.82.148:9200
+    uris: http://localhost:9200
     username: root
     password: 123456
   # 文件上传

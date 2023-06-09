@@ -2,9 +2,9 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.shaonian.search.mapper.PostMapper">
+<mapper namespace="com.timber.search.mapper.PostMapper">
 
-    <resultMap id="BaseResultMap" type="com.shaonian.search.model.entity.Post">
+    <resultMap id="BaseResultMap" type="com.timber.search.model.entity.Post">
         <id property="id" column="id" jdbcType="BIGINT"/>
         <result property="title" column="title" jdbcType="VARCHAR"/>
         <result property="content" column="content" jdbcType="VARCHAR"/>
@@ -23,7 +23,7 @@
         createTime,updateTime,isDelete
     </sql>
 
-    <select id="listPostWithDelete" resultType="com.shaonian.search.model.entity.Post">
+    <select id="listPostWithDelete" resultType="com.timber.search.model.entity.Post">
         select *
         from post
         where updateTime >= #{minUpdateTime}

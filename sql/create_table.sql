@@ -1,12 +1,11 @@
 # 建表脚本
-# @author 少年
-#
+# @author timber
 
 -- 创建库
-create database if not exists search_project;
+create database if not exists exotic_search;
 
 -- 切换库
-use search_project;
+use exotic_search;
 
 -- 用户表
 create table if not exists user
