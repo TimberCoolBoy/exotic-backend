@@ -3,9 +3,9 @@
   
 >线上地址：http://exoticspace.cn
 > 
-> 后端项目地址：https://github.com/TimberCoolBoy/search-backend  
+> 后端项目地址：https://github.com/TimberCoolBoy/exotic-backend  
 > 
-> 前端项目地址：https://github.com/TimberCoolBoy/search-frontend
+> 前端项目地址：https://github.com/TimberCoolBoy/exotic-frontend
 
 
 ## 项目架构
