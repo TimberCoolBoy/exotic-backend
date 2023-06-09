@@ -13,18 +13,24 @@
 <img src="./image/architecture.png" alt="image-20230515115642677" style="zoom:80%;" align="left"/>
 
 ## 项目演示
+### 文章搜索
 <img src="./image/show1.jpg" style="zoom:80%;" align="left"/>
-<br>
+
+### 图片搜索
 <img src="./image/show2.jpg" style="zoom:80%;" align="left"/>
-<br>
+
+### 视频搜索
 <img src="./image/show3.jpg" style="zoom:80%;" align="left"/>
-<br>
+
+### 音乐搜索
 <img src="./image/show4.jpg" style="zoom:80%;" align="left"/>
-<br>
+
+### MV播放
 <img src="./image/show5.jpg" style="zoom:80%;" align="left"/>
-<br>
+
+### 用户搜索
 <img src="./image/show6.jpg" style="zoom:80%;" align="left"/>
-<br>
+
 
 ## 技术栈
 ### 前端
