@@ -14,11 +14,17 @@
 
 ## 项目演示
 <img src="./image/show1.jpg" style="zoom:80%;" align="left"/>
+<br>
 <img src="./image/show2.jpg" style="zoom:80%;" align="left"/>
+<br>
 <img src="./image/show3.jpg" style="zoom:80%;" align="left"/>
+<br>
 <img src="./image/show4.jpg" style="zoom:80%;" align="left"/>
+<br>
 <img src="./image/show5.jpg" style="zoom:80%;" align="left"/>
+<br>
 <img src="./image/show6.jpg" style="zoom:80%;" align="left"/>
+<br>
 
 ## 技术栈
 ### 前端
